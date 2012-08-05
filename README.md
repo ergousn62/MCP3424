@@ -1,5 +1,4 @@
 
-
 ==================
 MCP3424_arduinolib
 ==================
@@ -18,3 +17,9 @@ Most important function used:
 getChannelMv(channel);
   - reads data from a chosen channel, and converts the ADC values to mV
 
+
+Contains 4 files:
+- MCP3424.h - library header file
+- MCP3424.cpp - library source code file
+- README
+- ADC_MCP3424.ino - Arduino example application
