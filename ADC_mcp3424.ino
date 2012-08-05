@@ -30,8 +30,6 @@ void setup()
 {
   Serial.begin(9600);  
   Wire.begin(); 
-  //ADC_ch1.setChannel(0,3,0); // {channel/resolution/gain}
-  // get voltage divisor
 }
 
 //-------
